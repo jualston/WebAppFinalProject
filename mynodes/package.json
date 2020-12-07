@@ -2,7 +2,7 @@
 "version": "1.0.0",
 "main": "restAPI.js",
   "scripts": {
-  "start:" "node restAPI.js"
+  "start:" "node restapi.js"
   },
   "author": "",
   "license": "ISC",
